@@ -1,6 +1,6 @@
 # **Cadastro de Produtos CRUD**
 
-Este é um projeto de cadastro de produtos CRUD desenvolvido para fins de estudo. O backend foi construído em Java com Spring Boot e o frontend em Angular.
+Este é um projeto de cadastro de filmes CRUD desenvolvido para fins de estudo. O backend foi construído em Java com Spring Boot e o frontend em Angular.
 
 ## **Tecnologias Utilizadas**
 
